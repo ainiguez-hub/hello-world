@@ -1,2 +1,2 @@
 # hello-world
-This is a repository to practice the Github flow. 
+MY NAME IS ANDRES, IM FROM ECUADOR AND IM A COMPUTER SCIENCE MAJOR AT EASTERN MICHIGAN UNIVERSITY. 
